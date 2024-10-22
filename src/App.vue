@@ -40,7 +40,9 @@
   </footer>
 </template>
 <style>
-
+main{
+    background-color: rgb(129, 219, 166);
+}
 .card {
   box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
   margin: 1rem;
