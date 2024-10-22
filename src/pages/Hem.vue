@@ -14,13 +14,13 @@
         </router-link>
       </div>
     </div>
-    <div class="mx-auto">
+    <!-- <div class="mx-auto">
       <img src="https://source.unsplash.com/3lxrM5yvkcI" alt="Belgium">
       <img src="https://source.unsplash.com/3wFRlwS91yk" alt="Austria">
       <img src="https://source.unsplash.com/7dEyTJ7-8os" alt="Globe">
       <img src="https://source.unsplash.com/dBtWLliLt5k" alt="Italy">
       <img src="https://source.unsplash.com/aDxmYZtYj7g" alt="Prag">
-    </div>
+    </div> -->
   </main>
 </template>
 <style scoped>

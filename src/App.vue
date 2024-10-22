@@ -44,8 +44,7 @@ main {
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  background-image: url('https://source.unsplash.com/FIKD9t5_5zQ');
-  background-color: #8ad6eb;
+  background-color: rgb(244, 237, 215);
 }
 
 .card {
