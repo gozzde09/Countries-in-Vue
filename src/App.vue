@@ -40,12 +40,6 @@
   </footer>
 </template>
 <style>
-main {
-  background-position: center center;
-  background-size: cover;
-  background-attachment: fixed;
-  background-color: rgb(244, 237, 215);
-}
 
 .card {
   box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
