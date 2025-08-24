@@ -50,7 +50,7 @@
     <BNavbar variant="dark" v-b-color-mode="'dark'">
       <BCollapse id="nav-collapse" is-nav>
         <BNavbarNav class="d-flex mx-auto">
-          <BNavItem href="#">© 2024 Copyright: Lära Länder</BNavItem>
+          <BNavItem href="#">© 2024 Copyright: Resa & Lära</BNavItem>
         </BNavbarNav>
       </BCollapse>
     </BNavbar>
