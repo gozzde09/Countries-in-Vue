@@ -5,7 +5,6 @@ body {
 }
 main {
   flex-grow: 1;
-  background-color: rgb(129, 219, 166);
 }
 #app {
   display: flex;
@@ -14,6 +13,7 @@ main {
   font-family: Helvetica, sans-serif;
   font-size: 1.1rem;
 }
+
 [v-cloak] {
   display: none;
 }
