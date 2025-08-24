@@ -13,7 +13,7 @@
       <RouterLink
         to="/"
         class="nav-link px-2 text-warning link-underline-opacity-25 link-underline-opacity-100-hover">
-        <h1>Lära dig Länder</h1>
+        <h1>Resa & Lära</h1>
       </RouterLink>
 
       <BNavbarToggle target="nav-collapse" />
